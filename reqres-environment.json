@@ -1,0 +1,33 @@
+{
+	"id": "638cbded-084b-469d-8152-9cfbf7afeed3",
+	"name": "ReRes",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "reqres.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userID",
+			"value": 3,
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "resource2Name",
+			"value": "fuchsia rose",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-02-19T17:32:56.336Z",
+	"_postman_exported_using": "Postman/11.63.6"
+}
